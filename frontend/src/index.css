@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom fade-in animation */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.8s ease-out;
+}
+
+/* Example: A gradient background for header */
+.header-gradient {
+  background: linear-gradient(90deg, #4f46e5, #3b82f6);
+}
+
+/* Advanced shadow and transition for cards */
+.card {
+  @apply bg-white rounded-lg shadow-xl p-6 transform transition duration-300 hover:scale-105;
+}
