@@ -146,11 +146,8 @@ We ❤️ contributions! Feel free to:
 
 Please follow the standard contribution workflow and code style.
 
----
 
-## 📜 License
 
-Distributed under the **MIT License**. See `LICENSE` for details.
 
 ---
 
