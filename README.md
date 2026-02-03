@@ -158,8 +158,4 @@ Please follow the standard contribution workflow and code style.
 
 ---
 
-### 🔍 Notes
 
-This project is part of the AI job board ecosystem — tools that help job seekers explore opportunities using modern tech stacks. Similar projects include automated job search agents, job portals, and AI job recommendation systems. 
-
----
